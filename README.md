@@ -8,7 +8,7 @@ The system highlates essenstila SQL techniques that ensure data handling, proper
 3.booking_table:booking_id(PK),customer_id(FK),room_id(FK),check_in_date,check_out_date,status
 4.payemnt_table:payemnt_id(PK),booking_id(FK),amount_paid,payment_date,payment_mode
 5.staff_table:staff_id(PK),name,role,contact_info,hire_date,salary
-(PK=Primary Key, FK=Foriegn Key)
+Note: PK=Primary Key, FK=Foriegn Key
 
 
 
