@@ -1,5 +1,5 @@
 # Hotel Managment System
-The objective of this project is to create a structured system for handling hotel related information.It mainly focuses on creating, inserting, updating, altering and managing records using MySQL workbench with SQL commands to carry out the operations.
+The objective of this project is to create a structured system for handling hotel related information.It mainly focuses on creating, inserting, updating, altering and managing records using SQL commands to carry out the operations.
 The system highlates essenstila SQL techniques that ensure data handling, proper organization, automation and acurate retrieval of the records.
 
 ## Tables used
@@ -10,6 +10,18 @@ The system highlates essenstila SQL techniques that ensure data handling, proper
 5.staff_table:staff_id(PK),name,role,contact_info,hire_date,salary
 
 Note: PK=Primary Key, FK=Foriegn Key
+
+## MySQL Workbench
+MySQL workbech was utilised for designing the database, creatinf tables, and performing various operations such as data insertin and manipulation.It also faciliated the development of the Entity-Relationship(ER) diagram, which has been included for better understanding and refernce.
+
+## Conlusion
+The Hotel Management system project developed using MySQL helps in implementing,storing and performing operations of structured and organised data.
+The operations performed range form foundational to advanced including the "trigger" which is used to automatically store data.
+
+## Future Scope
+The future scope of this project is to extend it into a web application using python,Flask,HTML and CSS.
+The website acts as a platform for users to book rooms and the data us automatically entered into database.
+
 
 
 
